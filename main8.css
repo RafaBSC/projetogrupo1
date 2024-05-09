@@ -1,0 +1,223 @@
+body {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 202%;
+}
+.fundo {
+    width: 95%;
+    height: 100%;
+    border: solid mediumblue 2px;
+    margin-left: 2.7%;
+    margin-top: 4.8%;
+    background-color: black;
+}
+.cabessalho {
+    width: 95%;
+    height: 9%;
+    border: solid darkgray 1px;
+    background-color: midnightblue;
+    position: absolute;
+    margin-left:2.2%;
+    margin-top: -4.9%;
+    color:powderblue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: home;
+    font-size: 25px;
+    
+}
+@font-face {
+    font-family: home;
+    src: url(FUTRFW.TTF);
+}
+.imagem {
+    position: absolute;
+    right: 4.7%;
+    width: 34.1%;
+    height: 80%;
+    margin-top: 4.5%;
+
+}
+.criptografia {
+    color: white;
+    position: absolute;
+    margin-top: 8.7%;
+    margin-left: 5%;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+@font-face {
+    font-family: fontecripto;
+    src: url(fontecripto.otf);
+}
+.info {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 17%;
+    font-size: 20px;
+    margin-left: 1%;
+    text-align: center;
+    
+}
+.CONFIDENCIALIDADE {
+    color: white;
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 5%;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+.info-1 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 39%;
+    font-size: 11.5px;
+    margin-left: 2%;
+}
+.integridade {
+    color: white;
+    position: absolute;
+    margin-top: 47%;
+    margin-left: 15%;
+    font-family: fontecripto;
+    font-size: 42px;
+}
+.info-2 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 83%;
+    font-size: 20px;
+    margin-left:46%;
+    text-align: right;
+}
+.imagem-1 {
+    margin-top: 55%;
+    margin-left: 2% ;
+}
+.cripto {
+    color:white;
+    position: absolute;
+    margin-top:62%;
+    font-family: fontecripto;
+    font-size: 42px;
+    margin-left: 54%;
+    text-align: center;
+}
+.info-3 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 71%;
+    font-size: 17px;
+    margin-left: 62%;
+    text-align: center;
+}
+
+.governamentais {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 72.5%;
+    font-size: 17px;
+    margin-left: 78.8%;
+}
+
+.auten {
+    color:white;
+    position: absolute;
+    margin-top: 76%;
+    font-family: fontecripto;
+    font-size: 40px;
+    margin-left: 51.5%;
+    text-align: center;
+}
+.info-4 {
+    color: white;
+    position: absolute;
+    font-family: fontecripto;
+    margin-top: 89%;
+    font-size: 17px;
+    margin-left: 53%;
+    text-align: center;
+}
+.final {
+    color: white;
+    font-family: fontecripto;
+    position: relative;
+    bottom: -1%;
+    left: 1%;
+}
+
+#links {
+    position: absolute;
+    top:3.5%;
+    left: 3%;
+    font-family: fontecripto;
+}
+
+#links1 {
+    position: absolute;
+    top:3.5%;
+    left: 17.5%;
+    font-family: fontecripto;
+}
+
+#links2 {
+    position: absolute;
+    top:3.5%;
+    left: 31% ;
+    font-family: fontecripto;
+    text-align: center;
+}
+
+#links3 {
+    position: absolute;
+    top:3.5%;
+    right: 34% ;
+    font-family: fontecripto;
+}
+
+#links4 {
+    position: absolute;
+    top:3.5%;
+    right: 21%;
+    font-family: fontecripto;
+} 
+
+#links5 {
+    position: absolute;
+    top:3.5%;
+    right: 4%;
+    font-family: fontecripto;
+    text-align: center;
+}
+
+#cor {
+    color: white;
+}
+
+#cor1 {
+    color: white;
+}
+
+#cor2 {
+    color: white;
+}
+
+#cor3 {
+    color: white;
+}
+#cor4 {
+    color: white;
+}
+
+#cor5 {
+    color: white;
+}
+#cor6 {
+    color: white;
+}
